@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "752477300864",
+    "project_id": "odontologico-urtecho",
+    "storage_bucket": "odontologico-urtecho.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752477300864:android:8f5f752cdb6a9021a5de65",
+        "android_client_info": {
+          "package_name": "io.dev.odontologico_urtecho"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-i_6B1GuYdB30G4ZXP4viSH1f_-gDU-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
